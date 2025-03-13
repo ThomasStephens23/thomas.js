@@ -1,6 +1,6 @@
 elements.hello_world = {
-	color: "#ff0000",
+	color: "#1f1f1f1",
 	behavior: behaviors.POWDER,
-	category: "CustomThomasMods",
+	category: "Powder",
 	state: "powder",
 }
